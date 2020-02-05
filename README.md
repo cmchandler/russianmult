@@ -4,7 +4,7 @@ This script demonstrates the method commonly referred to as 'Russian Multiplicat
 
 [Wikipedia article about the process](https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication)
 
-####Usage:
+#### Usage:
 On a linux or windows console, run 
 ```python3 russian.py``` 
 
